@@ -7,9 +7,6 @@
   <img src="c-.png" width="36" height="36">
  </a>
  <a href="#" target="black">
-  <img src="html-5.png" width="36" height="36">
- </a>
- <a href="#" target="black">
   <img src="js.png" width="36" height="36">
  </a>
  <a href="#" target="black">
