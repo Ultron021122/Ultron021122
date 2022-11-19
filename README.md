@@ -7,8 +7,14 @@
   <img src="c-.png" width="36" height="36">
  </a>
  <a href="#" target="black">
-  <img src="c-.png" width="36" height="36">
+  <img src="html-5.png" width="36" height="36">
  </a>
  <a href="#" target="black">
-  <img src="c-.png" width="36" height="36">
+  <img src="js.png" width="36" height="36">
+ </a>
+ <a href="#" target="black">
+  <img src="php.png" width="36" height="36">
+ </a>
+ <a href="#" target="black">
+  <img src="piton.png" width="36" height="36">
  </a>
