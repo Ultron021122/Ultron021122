@@ -11,8 +11,9 @@
 <a href="https://linkedin.com/in/sebastian martinez lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian martinez lopez" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Insignia:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Insignia:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight"></a>
