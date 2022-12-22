@@ -42,7 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight"></a>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sebastian martinez lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian martinez lopez" height="30" width="40" /></a>
 </p>
