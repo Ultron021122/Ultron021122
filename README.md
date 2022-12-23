@@ -13,7 +13,7 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
  </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Ultron021122/Ultron021122/img/gnu-bash.png" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/gnu-bash.png" alt="bash" width="40" height="40"/>
  </a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
