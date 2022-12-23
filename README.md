@@ -36,7 +36,7 @@
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/blender.ico" alt="blender" width="40" height="40"/>
  </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/css.png" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/docker.png" alt="docker" width="40" height="40"/>
