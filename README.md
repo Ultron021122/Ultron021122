@@ -19,7 +19,7 @@
 </p>
 
 <h2>Skills</h2>
-<h4 align="left">Programming Languages</h4>
+<h4 align="left">Languages and Tools</h4>
 <p align="left">
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -38,9 +38,6 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  </a>
- 
-<h4 align="left">Frontend Development</h4>
-<p aligned="left">
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
  </a>
@@ -59,23 +56,15 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  </a>
-
-<h4 align="left">Backend Development</h4>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/nodo-js.png" alt="nodejs" width="40" height="40"/>
  </a>
-
-<h4 align="left">Mobile App Development</h4>
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
  </a>
-
-<h4 align="left">AI/ML</h4>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
  </a>
-
-<h4 align="left">Database</h4>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
  </a>
@@ -91,37 +80,27 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/postgre.png" alt="postgresql" width="40" height="40"/>
  </a>
-
-<h4 align="left">Devops</h4>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/docker.png" alt="docker" width="40" height="40"/>
  </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/gnu-bash.png" alt="bash" width="40" height="40"/>
  </a>
-
-<h4 align="left">Backend as a Service(BaaS)</h4>
  <a href="https://heroku.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
  </a>
-
-<h4 align="left">Framework</h4>
  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/laravel.png" alt="laravel" width="40" height="40"/>
  </a>
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
  </a>
- 
-<h4 align="left">Software</h4>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/blender.ico" alt="blender" width="40" height="40"/>
  </a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/photoshop.png" alt="photoshop" width="40" height="40"/>
  </a>
-
-<h4 align="left">Other</h4>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/linux.png" alt="linux" width="40" height="40"/>
  </a>
