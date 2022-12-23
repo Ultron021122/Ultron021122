@@ -1,23 +1,12 @@
-<h1 align="center">Hi there!, I'm Sebastián Martínez López</h1>
+<h2 align="center">Hi there!, I'm Sebastián Martínez López</h2>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <ul>
  <li>I am a student at the University of Guadalajara.</li>
  <li>I study computer engineering because I like to develop programs that at the time aroused my curiosity about how they work.</li>
+ <li>I work from backend to frontend, I create desktop applications and I am exploring new horizons.</li>
+ <li>I am working with frameworks, this after having explored the languages ​​in a pure way. The frameworks I work on are microsoft .NET, Regular, Angular and Laravel.</li>
 </ul>
-<h3>Insignia:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight">
- </a>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
- <a href="https://linkedin.com/in/sebastian martinez lopez" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian martinez lopez" height="30" width="40" />
- </a>
-</p>
-
 <h2>Skills</h2>
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
@@ -62,9 +51,6 @@
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
  </a>
- <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
- </a>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
  </a>
@@ -86,14 +72,8 @@
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/gnu-bash.png" alt="bash" width="40" height="40"/>
  </a>
- <a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
- </a>
  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/laravel.png" alt="laravel" width="40" height="40"/>
- </a>
- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
  </a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/blender.ico" alt="blender" width="40" height="40"/>
@@ -106,4 +86,9 @@
  </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ </a>
+<h4>Insignia</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight">
  </a>
