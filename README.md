@@ -16,7 +16,7 @@
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/gnu-bash.png" alt="bash" width="40" height="40"/>
  </a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/favicon.ico.png" alt="blender" width="40" height="40"/>
+  <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/blender.ico" alt="blender" width="40" height="40"/>
  </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://github.com/Ultron021122/Ultron021122/blob/main/img/bootstrap.png" alt="bootstrap" width="40" height="40"/>  </a>
