@@ -90,5 +90,5 @@
  </a>
  <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=6&theme=tokyonight">
  </a>
