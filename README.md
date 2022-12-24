@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sebastián Martínez López</h1>
+<h1 align="center">Hi, I'm Sebastián Martínez López</h1>
 <h3 align="left">A passionate frontend developer from Mexico</h3>
 
 <ul>
