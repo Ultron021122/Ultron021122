@@ -86,9 +86,9 @@
  </a>
 <h4>Insignia</h4>
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=dark">
  </a>
  <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=6&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=6&theme=dark">
  </a>
