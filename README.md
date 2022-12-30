@@ -7,6 +7,10 @@
  <li>I work from backend to frontend, I create desktop applications and I am exploring new horizons.</li>
  <li>I am working with frameworks, this after having explored the languages in a pure way. The frameworks I work on are microsoft .NET, Regular, Angular and Laravel.</li>
 </ul>
+<h4>Insignia</h4>
+ <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=dark">
+ </a>
 <h2>Skills</h2>
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
@@ -84,10 +88,7 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
  </a>
-<h4>Insignia</h4>
- <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=dark">
- </a>
+ <br>
  <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=6&theme=dark">
