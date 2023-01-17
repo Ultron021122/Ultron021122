@@ -8,7 +8,7 @@
  <li>I am working with frameworks, this after having explored the languages in a pure way. The frameworks I work on are microsoft .NET, Regular, Angular and Laravel.</li>
 </ul>
 
-<a href="https://github.com/Ultron021122"><img src="sniker.svg"></a>
+<a href="https://github.com/Ultron021122"><img src="snake.svg"></a>
 
  | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&repo=github-readme-stats" alt="Ultron021122's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&layout=6&theme=dark&hide_border=false&repo=github-readme-stats" /></a> |
 | ------------- | ------------- |
