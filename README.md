@@ -9,5 +9,5 @@
 </ul>
 
  
- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&repo=github-readme-stats" alt="Ultron021122's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&layout=5&theme=dark&hide_border=false&repo=github-readme-stats" /></a> |
+ | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&repo=github-readme-stats" alt="Ultron021122's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&layout=6&theme=dark&hide_border=false&repo=github-readme-stats" /></a> |
 | ------------- | ------------- |
