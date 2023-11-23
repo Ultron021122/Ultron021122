@@ -1,5 +1,5 @@
-<h2 align="center">Hello, I'm Sebastián Martínez López</h2>
-<p align="center">A passionate <strong>Full Stack Developer</strong> from Mexico</p>
+<h1 align="center">Hello, I'm Sebastián Martínez López</h1>
+<h3 align="center">A passionate <strong>Full Stack Developer</strong> from Mexico</h3>
 <ul>
 <li>Currently at the University of Guadalajara, I am studying Computer Engineering, driven by my curiosity about program development. My interest lies in understanding the inner workings of programs and creating innovative solutions.</li>
 <li>My expertise spans from backend to frontend development, including the creation of desktop applications. I am continually exploring new horizons in the tech landscape. Having initially delved into programming languages in their pure form, I now leverage frameworks such as Vue, React, and Laravel in my work.</li>
