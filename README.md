@@ -8,5 +8,5 @@
 </ul>
 
 <!--<a href="https://github.com/Ultron021122"><img src="snake.svg"></a>-->
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=tokyonight&hide_border=false&repo=github-readme-stats" alt="Ultron021122's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=tokyonight&hide_border=false&repo=github-readme-stats" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultron021122&show_icons=true&theme=dark&hide_border=false&repo=github-readme-stats" alt="Ultron021122's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron021122&langs_count=5&theme=dark&hide_border=false&repo=github-readme-stats" /></a> |
 | ------------- | ------------- |
