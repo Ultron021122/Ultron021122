@@ -1,8 +1,5 @@
-<p align="center">
-   <h3 align="center">Hello, I'm Sebastián Martínez López</h3>
-</p>
+<h2 align="center">Hello, I'm Sebastián Martínez López</h2>
 <p align="center">A passionate <strong>Full Stack Developer</strong> from Mexico</p>
-<hr>
 <ul>
  <li>I am a student at the University of Guadalajara.</li>
  <li>I study computer engineering because I like to develop programs that at the time aroused my curiosity about how they work.</li>
